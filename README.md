@@ -1,12 +1,12 @@
 # Response Email
 
 ## About Me
-I am Alejandro van den Bussche, I have a brand called Rocket Media, with which I offer my services in Graphic Design, Web Design and Web Development. This particular project was designed and developed for our client Restorationb Maintenance, who needed an email to respond to the appointments requested by their clients on the company website.
+I am Alejandro van den Bussche, I have a brand called Rocket Media, with which I offer my services in Graphic Design, Web Design and Web Development. This particular project was designed and developed, for our client SSK, several emails to be used as a newsletter.
 
 
 ## Deployment
 
-https://restomain-email.vercel.app/
+https://ssk-mails.vercel.app/
 
 ## Work Structure
 
